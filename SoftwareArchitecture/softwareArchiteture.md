@@ -1,14 +1,10 @@
 # What is architecture?
 
-~~~
 Architecture ek tarah ka map hota hai jo ye deside karta hai kaha pe kya banga, kyu banga, kaise banga. ye map house ka building ka software application ka ho sakta. 
-~~~
 
 # What is software architecture?
 
-~~~
 Software Architecture ek software system ki design aur organization ko define karta hai. Software Architecture software ke components, unke relationships aur unki interactions ko describe karta hai. Yeh ek blueprint ki tarah hota hai jo software development ke liye use kiya jata hai aur usmein high-level design decisions aur patterns shamil hote hain. Software Architecture ki sahi planning aur implementation ke liye bahut important hota hai aur yeh software ke performance, scalability, maintainability aur security ke liye bhi zaruri hota hai.
-~~~
 
 # How many layers in software architecture?
 
