@@ -18,7 +18,7 @@ Software Architecture ek software system ki design aur organization ko define ka
 
 # How many architecture in software architecture?
 
-##### Software Architecture mein kai prakar ke architecture hote hain, jaise ki client-server architecture, n-tier architecture, microservices architecture, event-driven architecture, service-oriented architecture, monolithic architecture, distributed architecture, peer-to-peer architecture, and many more. Har architecture apne tareeke se software system ko design aur organize karta hai. Hum esmain monolithic or microservices architecture cover karange.
+### Software Architecture mein kai prakar ke architecture hote hain, jaise ki client-server architecture, n-tier architecture, microservices architecture, event-driven architecture, service-oriented architecture, monolithic architecture, distributed architecture, peer-to-peer architecture, and many more. Har architecture apne tareeke se software system ko design aur organize karta hai. Hum esmain monolithic or microservices architecture cover karange.
 
 - 1. __monolithic architeture__ : Monolithic Architecture ek software architecture hai jismein sabhi modules aur components ek saath integrate hote hain aur ek hi codebase mein hote hain. Yeh architecture ek set of files hota hai jo ki ek hi server ya phir ek set of servers par run karta hai.Is architecture mein, ek particular module mein koi bhi change ya upgrade karete hai to, poori application ko restart karne ki zaroorat hoti hai. Isliye, is architecture mein application ke development aur deployment mein kaafi time aur effort lagta hai.
 
