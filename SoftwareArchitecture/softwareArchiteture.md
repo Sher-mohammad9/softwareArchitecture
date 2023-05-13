@@ -8,7 +8,7 @@ Software Architecture ek software system ki design aur organization ko define ka
 
 # How many layers in software architecture?
 
-##### Software architecture mein layers ki sankhya project ke requirement aur complexity par nirbhar karti hai. Lekin aam taur par, ek software system mein teen alag-alag layers hote hain:
+#### Software architecture mein layers ki sankhya project ke requirement aur complexity par nirbhar karti hai. Lekin aam taur par, ek software system mein teen alag-alag layers hote hain:
 
 - 1. __Presentation layer__ : Ye layer users ke interaction ko handle karta hai. Isme UI/UX design, user input validation, and data presentation ke liye code hota hai.
 
